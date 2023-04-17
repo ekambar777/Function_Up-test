@@ -1,0 +1,5 @@
+git restore vs git restore --staged
+
+git restore : let if you accidentally make any chnges to your file, so you can make the file as it before using git restore filename.
+
+ git restore --staged :let if you staged your file and the you realized that it is a wrong file the you can remove it from staged by using restore --staged filena
